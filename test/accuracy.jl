@@ -1,4 +1,4 @@
-using TwelfthRoot
+using Fast12thRoot
 
 function accuracystats(N::Int, interval::Tuple; seed=123456789)
     srand(seed)
